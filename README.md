@@ -69,7 +69,7 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ---
 
-Author: Raghav Garg
+Author: Siddhant Patnaik
 Institution: Bharati Vidyapeeth College of Engineering-Delhi
 Graduation: 2026
 
